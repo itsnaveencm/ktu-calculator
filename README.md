@@ -2,7 +2,7 @@
 
 A free, browser-based academic calculator for students of **APJ Abdul Kalam Technological University (KTU)**.
 
-**Live app:** https://naveencm3852.github.io/ktu-calculator/
+**Live app:** https://itsnaveencm.github.io/ktu-calculator/
 
 KTU Calc helps students estimate semester performance, track cumulative results and plan an academic target. It runs in the browser without requiring an account.
 
@@ -28,7 +28,7 @@ KTU Calc helps students estimate semester performance, track cumulative results 
 This is a static web application. Clone the repository and open `index.html` in a browser, or serve the directory with a local static server.
 
 ```bash
-git clone https://github.com/NaveenCM3852/ktu-calculator.git
+git clone https://github.com/itsnaveencm/ktu-calculator.git
 cd ktu-calculator
 ```
 
